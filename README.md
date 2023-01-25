@@ -4,6 +4,7 @@
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am a certified data analyst :smiley:
 </h1>
 
 ### My details are:
@@ -17,16 +18,15 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 ---
 
 ## :fire: Technoligy stack
-- Google Sheets and Excel (pivot tables, vlookup, text functions, graphics);
+- Google Sheets (pivot tables, vlookup, text functions, graphics);
 - Knowledge of KPIs (ARPU, CR, Retention, LTV, etc);
 - Understanding of unit economics;
-- SQL - PostgreSQL (pgAdmin4 tool);
+- SQL PostgreSQL (pgAdmin4 tool);
 - Data visualization instruments PowerBI (DAX, R (Power Query));
-- Python (Pandas, NumPy, Matplotlib, Seaborn, etc, VSCode tool);
+- Python (Pandas, NumPy, Matplotlib, Math, etc, VSCode tool);
 - SQL Database connection using Python;
-- Connect and call APIs using Python;
 - Knowledge of basic statistics and math;
-- English С1, Russian - native
+- English С1, Russian - native, Greek - B1
 
 ---
 
@@ -40,7 +40,7 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 - To determine whether it is cost-effective to expand this business and open a new store in a new region.<br>
 
 **Tools used**: 
-- Google Sheets (pivot tables, vlookup, text functions) 
+- Google Sheets (pivot tables, vlookup, text functions)
 - KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
 
 ### :arrow_right: E-commerce 
