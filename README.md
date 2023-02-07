@@ -130,3 +130,10 @@ Position: Second-line tech support specialist for all issues related to domain n
 *https://euc.ac.cy/en/*<br>
 - **2015** Master degree in Business Administration (MBA);
 - **2012** Batchelor degree in Business Administration (BBA) in Hospitality Industry
+
+---
+
+## :woman: My hobby
+
+Appreciate privacy with a good cup of :coffee: <br>
+Now I'am on the stage when I ready to go for something new
