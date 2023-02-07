@@ -110,7 +110,8 @@ Position: Account Manager <br>
 - to provide second-line support for all issues related to invoices/payments/refunds.
 
 **2014 - 2017**<br>
-Position: Second-line tech support specialist for all issues related to domain names
+Position: Second-line tech support specialist for all issues related to domain names.<br>
+- I started as a first-line support with zero technical knowledge and grew to a Second-line tech support specialist.
 
 ---
 
@@ -133,7 +134,18 @@ Position: Second-line tech support specialist for all issues related to domain n
 
 ---
 
-## :woman: My hobby
+## Again about me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
+</div>
 
-Appreciate privacy with a good cup of :coffee: <br>
-Now I'm ready to go for something new
+There is a meme that shows a couple: a man is setting on a chair, full of thoughts about how to organize a trip (hotel reservations, flight tickets, transportation, etc) and a woman is just so happy because she managed to find a pink suitcase that suits the color of her shoes. So, I am the first one in this meme :slightly_smiling_face:
+
+**A few words about my work**<br>
+Taking into account my problem-solving skills, attention to detail and developed communication skills the management has entrusted me with the direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters.
+
+Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why",  I am the one who can assist them to solve the issue effectively.
+
+I rejected the offer from our accounting team to work as an accountant because, in my opinion, they deal on the daily basis with a routine and there is no space for creativity at all but I would like to have in my work. So, I saw such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
+
+As a result I completed the course Data Analyst Specialization and am ready to try a new role as Data Analyst.
