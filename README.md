@@ -31,8 +31,8 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 
 ## :star: Portfolio
 
-### :arrow_right: E-commerce 
-- https://clck.ru/33MNnT RU
+### :arrow_right: Google_Sheets_project
+- https://clck.ru/33Nsec ENG
 
 **Objective**: 
 - To determine the current marketing and product metrics of the business in order to understand how the business is functioning;
@@ -42,15 +42,15 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 - Google Sheets (pivot tables, vlookup, text functions)
 - KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
 
-### :arrow_right: E-commerce 
+### :arrow_right: SQL_project
 - https://clck.ru/33MPHq RU
 
 **Objective**: To analyze the work of the company in terms of its effectiveness and give recommendations for scaling the business in other regions <br>
 
 **Tools used**: SQL
 
-### :arrow_right: Unit Economy 
-- https://clck.ru/33MPQD RU
+### :arrow_right: Project_sql_PowerBI_cohorts
+- https://clck.ru/33NyTo ENG
 
 **Objective**: 
 - To analyze the sales dynamics in different regions;
@@ -62,15 +62,15 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 - SQL
 - PowerBI (DAX, R (Power Query)
 
-### :arrow_right: GameDev 
-- https://clck.ru/33MQDs RU
+### :arrow_right: Python_project 
+- https://clck.ru/33Qnxu ENG
 
 **Objective**: To investigate user behavior in the updated application of the mobile game
 
 **Tools used**: Python (pandas, matplotlib)
 
-### :arrow_right: GameDev 
-- https://clck.ru/33MQGW RU
+### :arrow_right: Python_project 
+- https://clck.ru/33P3zk ENG
 
 **Objective**: To build a recommendation system to increase the revenue volume
 
