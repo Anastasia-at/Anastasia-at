@@ -136,4 +136,4 @@ Position: Second-line tech support specialist for all issues related to domain n
 ## :woman: My hobby
 
 Appreciate privacy with a good cup of :coffee: <br>
-Now I'am on the stage when I ready to go for something new
+Now I'm ready to go for something new
