@@ -146,6 +146,6 @@ Taking into account my problem-solving skills, attention to detail and developed
 
 Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why",  I am the one who can assist them to solve the issue effectively.
 
-I rejected the offer from our accounting team to work as an accountant because, in my opinion, they deal on the daily basis with a routine and there is no space for creativity at all but I would like to have in my work. So, I saw such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
+I rejected an offer from our accounting team to work as an accountant because, in my opinion, they deal with a routine and there is no space for creativity at all which I would like to have in my work. So, I found such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
 
-As a result I completed the course Data Analyst Specialization and am ready to try a new role as Data Analyst.
+As a result I completed the course Data Analyst Specialization and I am ready to try a new role as Data Analyst.
