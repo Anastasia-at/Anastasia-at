@@ -12,7 +12,7 @@
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
-I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with experience of more than 8 years in IT. I am good in Python, SQL and Google Sheets, also worked with visualization instruments (PowerBI). Currently I am interested in getting a Data Analyst role.
+I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with an experience of more than 8 years in IT. I am good in Python, SQL and Google Sheets, also worked with visualization instruments (PowerBI). Currently I am interested in getting a Data Analyst role.
 
 ---
 
@@ -142,7 +142,7 @@ Position: Second-line tech support specialist for all issues related to domain n
 There is a meme that shows a couple: a man is setting on a chair, full of thoughts about how to organize a trip (hotel reservations, flight tickets, transportation, etc) and a woman is just so happy because she managed to find a pink suitcase that suits the color of her shoes. So, I am the first one in this meme :slightly_smiling_face:
 
 **A few words about my work**<br>
-Taking into account my problem-solving skills, attention to detail and developed communication skills the management has entrusted me with the direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters.
+Taking into account my problem-solving skills, attention to detail and developed communication skills the management has entrusted me with the direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.
 
 Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why",  I am the one who can assist them to solve the issue effectively.
 
