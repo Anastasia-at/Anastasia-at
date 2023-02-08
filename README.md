@@ -12,7 +12,7 @@
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
-I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with experience of more than 8 years in IT. I am good in Python, SQL and Goolgle Sheets, also worked with visualization instruments (PowerBI). Curreently I am interested in getting a Data Analyst role.
+I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with experience of more than 8 years in IT. I am good in Python, SQL and Goolgle Sheets, also worked with visualization instruments (PowerBI). Currently I am interested in getting a Data Analyst role.
 
 ---
 
