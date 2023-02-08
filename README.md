@@ -25,7 +25,7 @@ I am a Certified Data Analyst, self-organized and keen on details, and have a gr
 - Python (Pandas, NumPy, Matplotlib, Math, etc, VSCode tool);
 - SQL Database connection using Python;
 - Knowledge of basic statistics and math;
-- English С1, Russian - native, Greek - B1
+- English - advanced, Russian - native, Greek - elementary
 
 ---
 
