@@ -12,7 +12,7 @@
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
-I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with an experience of more than 8 years in IT. I am good in Python, SQL and Google Sheets, also worked with visualization instruments (PowerBI). Currently I am interested in getting a Data Analyst role.
+I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with an experience of more than 8 years in IT. I am good in Python, SQL and Google Sheets, also worked with visualization instruments (PowerBI) and A/B test. Currently I am interested in getting a Data Analyst role.
 
 ---
 
@@ -20,9 +20,9 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 - Google Sheets (pivot tables, vlookup, text functions, graphics);
 - Knowledge of KPIs (ARPU, CR, Retention, LTV, etc);
 - Understanding of unit economics;
-- SQL PostgreSQL (pgAdmin4 tool);
+- SQL PostgreSQL (pgAdmin4);
 - Data visualization instruments PowerBI (DAX, R (Power Query));
-- Python (Pandas, NumPy, Matplotlib, Math, etc, VSCode tool);
+- Python (Pandas, NumPy, Matplotlib, Math, scipy.stats, VSCode, Google Colab);
 - SQL Database connection using Python;
 - Knowledge of basic statistics and math;
 - English - advanced, Russian - native, Greek - elementary
@@ -60,7 +60,7 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 **Tools used**: 
 - Google Sheets (pivot tables, vlookup, text functions, cohorts) 
 - SQL
-- PowerBI (DAX, R (Power Query)
+- PowerBI (DAX, R)
 
 ### :arrow_right: Python_project 
 - https://clck.ru/33Qnxu ENG :uk:
@@ -91,7 +91,7 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 **Objective**: 
 - Check if there is a dependence of the probability of receiving grants/contracts from the government based on the region of registration of the organization (1), on the age of the organization (2), and on the economic activity (3) of NPOs.
 
-**Tools used**: PowerBI (DAX, R (Power Query)
+**Tools used**: PowerBI (DAX, R)
 
 
 ---
@@ -106,12 +106,12 @@ https://xbtholding.com/*
 Position: Account Manager <br>
 - to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
 - to analyze failed incoming orders with future improvement suggestions; reporting;
-- communication hub (problem-solving) for Accounting, Technical Support and Development departments;
+- to do problem-solving for Accounting, Technical Support and Development departments;
 - to provide second-line support for all issues related to invoices/payments/refunds.
 
 **2014 - 2017**<br>
 Position: Second-line tech support specialist for all issues related to domain names.<br>
-- I started as a first-line support with zero technical knowledge and grew to a Second-line tech support specialist.
+- I've started as a first-line support with zero technical knowledge and grew to a second-line tech support specialist.
 
 ---
 
@@ -144,8 +144,8 @@ There is a meme that shows a couple: a man is setting on a chair, full of though
 **A few words about my work**<br>
 With my problem-solving skills, attention to detail and developed communication skills the management has entrusted me with the direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.
 
-Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why",  I am the one who can assist them to solve the issue effectively.
+Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why", I am the one who can assist them to solve the issue effectively.
 
-I rejected an offer from our accounting team to work as an accountant because, in my opinion, they deal with a routine and there is no space for creativity at all which I would like to have in my work. So, I found such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
+I've rejected an offer from our accounting team to work as an accountant because, in my opinion, they deal with a routine and there is no space for creativity at all which I would like to have in my work. So, I found such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
 
-As a result I completed the course Data Analyst Specialization and I am ready to try a new role as Data Analyst.
+As a result I completed the course Data Analyst Specialization and I am ready to go for a new role as Data Analyst.
