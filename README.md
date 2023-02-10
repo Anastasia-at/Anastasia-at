@@ -43,7 +43,7 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 - KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
 
 ### :arrow_right: SQL_project
-- https://clck.ru/33MPHq RU :ru:
+- https://clck.ru/33W7p4 ENG :uk:
 
 **Objective**: To analyze the work of the company in terms of its effectiveness and give recommendations for scaling the business in other regions <br>
 
