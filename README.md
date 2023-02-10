@@ -134,18 +134,14 @@ Position: Second-line tech support specialist for all issues related to domain n
 
 ---
 
-## Again about me
+## A few more words About Me
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
 
-There is a meme that shows a couple: a man is setting on a chair, full of thoughts about how to organize a trip (hotel reservations, flight tickets, transportation, etc) and a woman is just so happy because she managed to find a pink suitcase that suits the color of her shoes. So, I am the first one in this meme :slightly_smiling_face:
+I was always good with technical disciplines: mathematics, physics, and chemistry. Unfortunately, it took years for me to realize that I wish to have a job related to this subject. 
+Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team, actually, I was the first one in this team :slightly_smiling_face: I dedicated all my time to training, so I successfully completed the trial period.
 
-**A few words about my work**<br>
-With my problem-solving skills, attention to detail and developed communication skills the management has entrusted me with the direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.
+I believe that my skills such as analytical and problem-solving skills, attention to detail, responsibility and developed communication skills helped me to reach the current stage: the management has entrusted me with the direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters. Also, I am quite good at working as a problem-solving hub for accounting, technical support and development departments.
 
-Also, I am quite good at working as a communication hub (problem-solving) for accounting, technical support and development departments. If one of these departments has issues starting with the words "Where" and "Why", I am the one who can assist them to solve the issue effectively.
-
-I've rejected an offer from our accounting team to work as an accountant because, in my opinion, they deal with a routine and there is no space for creativity at all which I would like to have in my work. So, I found such an opportunity in analytics. Also the idea of working with popular languages in the world of data and various visualization tools inspires me  :star_struck:
-
-As a result I completed the course Data Analyst Specialization and I am ready to go for a new role as Data Analyst.
+Now I would like to improve my technical skills further by working with various technical and visualization instruments and also with the popular languages in the world of data. For this reason, I've completed the course Data Analyst and I am ready to go for a new role as an Analyst.
