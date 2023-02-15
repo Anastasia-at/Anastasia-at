@@ -130,7 +130,7 @@ Position: Second-line tech support specialist for all issues related to domain n
 ### European University Cyprus (EUC, Cyprus) 
 *https://euc.ac.cy/en/*<br>
 - **2015** Master degree in Business Administration (MBA);
-- **2012** Batchelor degree in Business Administration (BBA) in Hospitality Industry
+- **2012** Bachelor degree in Business Administration (BBA) in Hospitality Industry
 
 ---
 
