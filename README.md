@@ -12,7 +12,13 @@
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
-I am a Certified Data Analyst, self-organized and keen on details, I have a great data curiosity and analytical mindset with an experience of more than 8 years in IT. I am good in Python, SQL and Google Sheets, also worked with visualization instruments (PowerBI) and A/B test. Currently I am interested in getting a Data Analyst role.
+I am a Certified Data Analyst with a University degree in Business Administration. 
+
+For the last 8 years, I've been working in IT industry in a well-established international company, so I perfectly understand what it means to work under pressure and meet demanding deadlines in a fast-paced environment.
+
+I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my technical skills in **SQL, Google Sheets, Python and PowerBI (R)** for data analysis will help me to achieve the desired position at Junior/Middle level.
+
+As well I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and currently I am learning Greek (Fair).
 
 ---
 
@@ -20,18 +26,19 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 - Google Sheets (pivot tables, vlookup, text functions, graphics);
 - Knowledge of KPIs (ARPU, CR, Retention, LTV, etc);
 - Understanding of unit economics;
-- SQL PostgreSQL (pgAdmin4);
+- Knowledge in Relational Databases (SQL, PostgreSQL, pgAdmin4).
 - Data visualization instruments PowerBI (DAX, R (Power Query));
-- Python (Pandas, NumPy, Matplotlib, Math, scipy.stats, VSCode, Google Colab);
+- Programming language Python (Pandas, NumPy, Matplotlib, Math, scipy.stats, VSCode, Google Colab);
 - SQL Database connection using Python;
 - Knowledge of basic statistics and math;
-- English - advanced, Russian - native, Greek - elementary
+- Familiarity with A/B tests.
 
 ---
 
 ## :star: Portfolio
+Here you can find my projects:
 
-### :arrow_right: Google_Sheets_project
+### :arrow_right: E-commerce project
 - https://clck.ru/33Nsec ENG :uk:
 
 **Objective**: 
@@ -42,14 +49,14 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 - Google Sheets (pivot tables, vlookup, text functions)
 - KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
 
-### :arrow_right: SQL_project
+### :arrow_right: E-commerce project
 - https://clck.ru/33W7p4 ENG :uk:
 
 **Objective**: To analyze the work of the company in terms of its effectiveness and give recommendations for scaling the business in other regions <br>
 
 **Tools used**: SQL
 
-### :arrow_right: Project_sql_PowerBI_cohorts
+### :arrow_right: E-commerce project
 - https://clck.ru/33NyTo ENG :uk:
 
 **Objective**: 
@@ -62,14 +69,14 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 - SQL
 - PowerBI (DAX, R)
 
-### :arrow_right: Python_project 
+### :arrow_right: GameDev project 
 - https://clck.ru/33Qnxu ENG :uk:
 
 **Objective**: To investigate user behavior in the updated application of the mobile game
 
 **Tools used**: Python (pandas, matplotlib)
 
-### :arrow_right: Python_project 
+### :arrow_right: E-commerce project
 - https://clck.ru/33P3zk ENG :uk:
 
 **Objective**: To build a recommendation system to increase the revenue volume
@@ -103,7 +110,9 @@ I am a Certified Data Analyst, self-organized and keen on details, I have a grea
 https://xbtholding.com/*
 
 **2019 - Present**<br>
-Position: Account Manager <br>
+Position: Account/Financial Manager <br>
+My duties mainly include direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.<br>
+Also my tasks are:
 - to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
 - to analyze failed incoming orders with future improvement suggestions; reporting;
 - to do problem-solving for Accounting, Technical Support and Development departments;
@@ -140,8 +149,9 @@ Position: Second-line tech support specialist for all issues related to domain n
 </div>
 
 I was always good with technical disciplines: mathematics, physics, and chemistry. Unfortunately, it took years for me to realize that I wish to have a job related to this subject. 
-Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team, actually, I was the first one in this team :slightly_smiling_face: I dedicated all my time to training, so I successfully completed the trial period.
 
-I believe that my skills such as analytical and problem-solving skills, attention to detail, responsibility and developed communication skills helped me to reach the current stage: the management has entrusted me with the direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters. Also, I am quite good at working as a problem-solving hub for accounting, technical support and development departments.
+Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period.
 
-Now I would like to improve my technical skills further by working with various technical and visualization instruments and also with the popular languages in the world of data. For this reason, I've completed the course Data Analyst and I am ready to go for a new role as an Analyst.
+I believe that my skills such as analytical and problem-solving skills, attention to detail, responsibility and developed communication skills helped me to reach the current stage: the management has entrusted me with the handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters. Also, I am quite good at working as a problem-solving hub for accounting, technical support and development departments.
+
+At the same time I've improve my technical skills related to data analysis by working with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst.
