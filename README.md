@@ -112,15 +112,15 @@ https://xbtholding.com/*
 **2019 - Present**<br>
 Position: Account/Financial Manager <br>
 My duties mainly include direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.<br>
+
 Also my tasks are:
 - to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
 - to analyze failed incoming orders with future improvement suggestions; reporting;
-- to do problem-solving for Accounting, Technical Support and Development departments;
-- to provide second-line support for all issues related to invoices/payments/refunds.
+- to do problem-solving for Accounting, Technical Support and Development departments.
 
 **2014 - 2017**<br>
 Position: Second-line tech support specialist for all issues related to domain names.<br>
-- I've started as a first-line support with zero technical knowledge and grew to a second-line tech support specialist.
+I've started as a first-line support with zero technical knowledge and grew to a second-line tech support specialist.
 
 ---
 
