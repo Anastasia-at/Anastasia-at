@@ -110,10 +110,10 @@ Below are my projects:
 https://xbtholding.com/*
 
 **2019 - Present**<br>
-Position: Account/Financial Manager <br>
-My duties mainly include direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters.<br>
+**Position: Account/Financial Manager** <br>
+My duties mainly include direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters.
 
-Also my responsibilities are:
+In addition, my responsibilities are:
 - to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
 - to analyze failed incoming orders with future improvement suggestions; reporting;
 - to do problem-solving for Accounting, Technical Support and Development departments.
