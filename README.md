@@ -16,7 +16,7 @@ I am a Certified Data Analyst with a University degree in Business Administratio
 
 For the last 8 years, I've been working in IT industry in a well-established international company, so I perfectly understand what it means to work under pressure and meet demanding deadlines in a fast-paced environment.
 
-I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my hard skills in **SQL, Google Sheets, Python and PowerBI (R)** for data analytics will help me to achieve the desired position at **Junior/Middle level**.
+I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my hard skills in **SQL, Google Sheets, Python and PowerBI (R)** will help me to achieve the desired position at **Junior/Middle level** in Data Analytics.
 
 As well I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and currently I am learning Greek (Fair).
 
