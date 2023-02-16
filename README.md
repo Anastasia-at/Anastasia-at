@@ -16,7 +16,7 @@ I am a Certified Data Analyst with a University degree in Business Administratio
 
 For the last 8 years, I've been working in IT industry in a well-established international company, so I perfectly understand what it means to work under pressure and meet demanding deadlines in a fast-paced environment.
 
-I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my technical skills in **SQL, Google Sheets, Python and PowerBI (R)** for data analysis will help me to achieve the desired position at Junior/Middle level.
+I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my hard skills in **SQL, Google Sheets, Python and PowerBI (R)** for data analysis will help me to achieve the desired position at **Junior/Middle level**.
 
 As well I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and currently I am learning Greek (Fair).
 
@@ -36,7 +36,7 @@ As well I have excellent verbal and written communication skills in the English 
 ---
 
 ## :star: Portfolio
-Here you can find my projects:
+Below are my projects:
 
 ### :arrow_right: E-commerce project
 - https://clck.ru/33Nsec ENG :uk:
@@ -111,7 +111,7 @@ https://xbtholding.com/*
 
 **2019 - Present**<br>
 Position: Account/Financial Manager <br>
-My duties mainly include direct handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters.<br>
+My duties mainly include direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters.<br>
 
 Also my tasks are:
 - to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
@@ -120,7 +120,6 @@ Also my tasks are:
 
 **2014 - 2017**<br>
 Position: Second-line tech support specialist for all issues related to domain names.<br>
-I've started as a first-line support with zero technical knowledge and grew to a second-line tech support specialist.
 
 ---
 
@@ -139,7 +138,7 @@ I've started as a first-line support with zero technical knowledge and grew to a
 ### European University Cyprus (EUC, Cyprus) 
 *https://euc.ac.cy/en/*<br>
 - **2015** Master degree in Business Administration (MBA);
-- **2012** Bachelor degree in Business Administration (BBA) in Hospitality Industry
+- **2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
 
 ---
 
@@ -150,8 +149,8 @@ I've started as a first-line support with zero technical knowledge and grew to a
 
 I was always good with technical disciplines: mathematics, physics, and chemistry. Unfortunately, it took years for me to realize that I wish to have a job related to this subject. 
 
-Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period.
+Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period. I've started as a first-line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
 
-I believe that my skills such as analytical and problem-solving skills, attention to detail, responsibility and developed communication skills helped me to reach the current stage: the management has entrusted me with the handling of payments and refunds, as well as in communication with suppliers and key customers on financial matters. Also, I am quite good at working as a problem-solving hub for accounting, technical support and development departments.
+After a short break I came back with a new role as an Account/Financial Manager. I believe that a combination of my soft and hard skills and previous experience make me an ideal candidate for this position.
 
-At the same time I've improve my technical skills related to data analysis by working with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst.
+As years passed, I realised that wish to go further and continue with Big Data analytics. It is so fascinating to discover uncovering trends, patterns, and correlations in large amounts of raw data to help make data-informed decisions! During my studies I've learnned how to work with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst.
