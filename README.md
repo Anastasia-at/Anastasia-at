@@ -147,7 +147,7 @@ Position: Second-line tech support specialist for all issues related to domain n
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
 
-I was always good with technical disciplines: mathematics, physics, and chemistry. Unfortunately, it took years for me to realize that I wish to have a job related to this subject. 
+I was always good with technical disciplines: mathematics, physics, and chemistry. I love it, so when I had a chance to switch to "numbers", I did it.
 
 Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period. I've started as a first-line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
 
