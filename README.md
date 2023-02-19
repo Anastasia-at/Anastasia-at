@@ -2,13 +2,14 @@
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
 </div>
 <h2>
-  Hi there, I am a certified data analyst
+  Hi there, I am a Certified Data Analyst
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
 ### My details are:
 - Tel: +357.97747408
 - E-mail: anastasia.proff@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anastasia-tsygankova-337382251/
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
