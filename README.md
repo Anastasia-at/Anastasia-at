@@ -112,7 +112,7 @@ https://xbtholding.com/*
 
 **2019 - Present**<br>
 **Position: Account/Financial Manager** <br>
-My duties mainly include direct handling of payments and refunds, as well as communication with suppliers and key customers on financial matters. 
+My duties mainly include handling of payments and refunds, as well as communication with suppliers and key customers on financial matters. 
 
 In addition, my responsibilities are:
 - to do problem-solving for Accounting, Technical Support and Development departments;
@@ -148,10 +148,10 @@ Position: Second-line tech support specialist for all issues related to domain n
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
 
-I was always good with technical disciplines: mathematics, physics, and chemistry. I :heart: it, so when I had a chance to switch to "numbers", I did it.
+I was always good with technical disciplines: mathematics, physics, and chemistry. I :heart: it.
 
 Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period. I've started as a First-Line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
 
-After a short break I came back with a new role as an Account/Financial Manager. I believe that a combination of my soft skills and previous experience makes me an ideal candidate for this position.
+After a short break I came back with a new role as an Account/Financial Manager. I believe that a combination of my soft skills and previous experience made me an ideal candidate for that position.
 
 As years passed, I realised that I wish to go further and continue with Big Data analytics. It is so fascinating to discover uncovering trends, patterns, and correlations in large amounts of raw data to help make data-informed decisions! During my studies I've learned how to analyse data with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst :star:
