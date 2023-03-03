@@ -112,12 +112,15 @@ https://xbtholding.com/*
 
 **2019 - Present**<br>
 **Position: Account/Financial Manager** <br>
-My duties mainly include handling of payments and refunds, as well as communication with suppliers and key customers on financial matters. 
+My responsibilities mainly include handling payments and refunds, as well as communicating with suppliers and key customers on financial matters.
 
 In addition, my responsibilities are:
-- to do problem-solving for Accounting, Technical Support and Development departments;
-- to analyze incoming payments to minimize the risk of receiving fraudulent transactions with future improvement suggestions, reporting;
-- to analyze failed incoming orders with future improvement suggestions; reporting.
+- to liaise with Accounting, Technical Support and Development departments as required to resolve any financial issues;
+- to analyze incoming payments to minimize the risk of receiving fraudulent transactions and chargebacks with future improvement suggestions;
+- to analyze customer accounts for duplicate and abuse purposes;
+- to produce customised invoices and other matters (certificate, statements) on the customers’ request;
+- to review suppliers’ invoices, to ensure that invoiced services are provided and correctly recorded in the system; to fix any unresolved matters;
+- to report findings and feedback to management and other internal stakeholders.
 
 **2014 - 2017**<br>
 Position: Second-line tech support specialist for all issues related to domain names.<br>
