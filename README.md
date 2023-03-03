@@ -153,8 +153,10 @@ Position: Second-line tech support specialist for all issues related to domain n
 
 I was always good with technical disciplines: mathematics, physics, and chemistry. I :heart: it.
 
-Before completing my studies at university I started to search for accounting or technical support positions and I was lucky to find one, so I became a part of a friendly Support Team. A year later I got an offer from my current employer to join their Support Team. I dedicated all my time to training, so I successfully completed the trial period. I've started as a First-Line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
+Before I graduated from university, I'd started searching for accounting or technical support positions and I was lucky to find one, so I became a part of a growing team. A year later I got an offer from my current employer to join their support team. Since it was new for me, I dedicated all my time and efforts to training, so I successfully completed the trial period. 
 
-After a short break I came back with a new role as an Account/Financial Manager. I believe that a combination of my soft skills and previous experience made me an ideal candidate for that position.
+As a result, I started as a First-Line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
+
+Later on, after a break I came back to the same company with a new role as an Account/Financial Manager. I believe that a combination of my soft skills and my previous experience made me an ideal candidate for that position.
 
 As years passed, I realised that I wish to go further and continue with Big Data analytics. It is so fascinating to discover uncovering trends, patterns, and correlations in large amounts of raw data to help make data-informed decisions! During my studies I've learned how to analyse data with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst :star:
