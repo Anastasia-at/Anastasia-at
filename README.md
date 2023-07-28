@@ -90,8 +90,9 @@ In addition, my responsibilities are:
 
 ## :woman_student: Education
 
-### 2022 Skillfactory - Data Analyst Specialization
+### Skillfactory, Data Analyst Specialization
 *https://skillfactory.ru/*<br>
+2022 <br>
 **Blocks completed:**
 - Google instruments (Google Sheets, Google Analytics, Google Tag Manager), 
 - Key product and marketing metrics (KPIs), unit economics, purchase funnel;
