@@ -94,7 +94,7 @@ In addition, my responsibilities are:
 *https://skillfactory.ru/*<br>
 2022 <br>
 **Blocks completed:**
-- Google instruments (Google Sheets, Google Analytics, Google Tag Manager), 
+- Excel and Google instruments (Google Sheets, Google Analytics, Google Tag Manager), 
 - Key product and marketing metrics (KPIs), unit economics, purchase funnel;
 - SQL (PostgreSQL), 
 - Visualization reports in PowerBI,
