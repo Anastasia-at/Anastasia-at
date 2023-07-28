@@ -103,8 +103,8 @@ In addition, my responsibilities are:
 
 ### European University Cyprus (EUC, Cyprus) 
 *https://euc.ac.cy/en/*<br>
-- **2015** Master degree in Business Administration (MBA);
-- **2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
+- **2013-2015** Master degree in Business Administration (MBA);
+- **2007-2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
 
 ---
 
