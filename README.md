@@ -22,7 +22,7 @@ I have excellent verbal and written communication skills in the English language
 
 ---
 
-## :fire: Technoligy stack
+## :fire: Technology stack
 - SQL queries in MySQL (MySQL Workbench), PostgreSQL (pgAdmin 4), SQL Server (Microsoft SQL Server Management Studio);
 - Creating dashboards in Tableau and Power BI Data visualization tools;
 - Role of Tableau Cloud Site Administrator;
