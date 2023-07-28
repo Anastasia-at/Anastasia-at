@@ -116,7 +116,27 @@ https://www.cmtrading.com/*
 
 **Apr 2023 - Present**<br>
 **Position: Business Intelligence Analyst** <br>
-My responsibilities are to understand business requirements in the BI context and to design data models to convert raw data into meaningful insights by creating dashboards and interactive visual reports using BI tool, as well as to perform maintenance and improvements of databases, and the last but not the least to ensure the accuracy and completeness of imported data by conducting tests and troubleshooting. To report directly to the company BI manager.
+To perform Data Quality Control process by:
+- Importing data from various sources such as Database Management Systems, spreadsheets, or flat files;
+- Doing Data cleansing and validation processes where corrupt or inaccurate records are replaced, modified, or deleted to correct the data;
+- Transforming the extracted data into a format suitable for loading into the data warehouse;
+- Loading data into the warehouse;
+- Ensuring the accuracy and completeness of data by conducting tests and troubleshooting.
+
+To analyze data by:
+- Collaborating closely with all departments in order to understand business requirements and to convert it into technical specifications in BI context;
+- Performing SQL queries;
+- Designing data models to convert raw data into meaningful insights by creating dashboards and interactive visual reports using BI tool;
+- Presenting insights to various company stakeholders;
+- Identifying trends and patterns that can be used to support decision-making.
+
+To perform Tableau Cloud Site Administrator duties by: 
+- Managing site settings (ex. login authentication),
+- Creating projects for organizing content,
+- Monitoring site statistics to optimize site content (ex. use of reports), 
+- Setting users site role, 
+- Customizing permissions across the site, etc.
+
 
 ### XBT Holding, Limassol
 *IT Infrastructure for all needs: Hosting • Networking • Managed Services <br>
@@ -162,13 +182,3 @@ Position: Second-line tech support specialist for all issues related to domain n
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
-
-I was always good with technical disciplines: mathematics, physics, and chemistry. I :heart: it.
-
-Before I graduated from university, I'd started searching for accounting or technical support positions and I was lucky to find one, so I became a part of a growing team. A year later I got an offer from my current employer to join their support team. Since it was new for me, I dedicated all my time and efforts to training, so I successfully completed the trial period. 
-
-As a result, I started as a First-Line support with zero technical knowledge and grew to a Second-Line Tech Support specialist.
-
-Later on, after a break I came back to the same company with a new role as an Account/Financial Manager. I believe that a combination of my soft skills and my previous experience made me an ideal candidate for that position.
-
-As years passed, I realised that I wish to go further and continue with Big Data analytics. It is so fascinating to discover uncovering trends, patterns, and correlations in large amounts of raw data to help make data-informed decisions! During my studies I've learned how to analyse data with various technical and visualization instruments and also with the most popular languages in the world of data. So, now I am ready to go for a new role as an Analyst :star:
