@@ -65,8 +65,8 @@ To perform Tableau Cloud Site Administrator duties by:
 - Monitoring site statistics to optimize site content (ex. use of reports), 
 - Setting users site role, 
 - Customizing permissions across the site, etc.
-
-
+<br>
+<br>
 ### XBT Holding, Limassol
 *IT Infrastructure for all needs: Hosting • Networking • Managed Services <br>
 https://xbtholding.com/*
