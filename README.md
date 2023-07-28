@@ -90,7 +90,7 @@ In addition, my responsibilities are:
 
 ## :woman_student: Education
 
-### Skillfactory (online digital platform)
+### Skillfactory (online educational platform)
 *https://skillfactory.ru/*<br>
 - **2022** Data Analyst Specialization
 
