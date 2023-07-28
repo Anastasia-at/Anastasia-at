@@ -100,10 +100,9 @@ Below are my projects:
 ### :arrow_right: Hackathon (group project), customer "Teplisa" (https://te-st.ru/about/)
 - https://clck.ru/yTzhF RU :ru:
 
-**Objective**: 
-- Check if there is a dependence of the probability of receiving grants/contracts from the government based on the region of registration of the organization (1), on the age of the organization (2), and on the economic activity (3) of NPOs.
+**Objective**: To check if there is a dependence of the probability of receiving grants/contracts from the government based on the region of registration of the organization (1), on the age of the organization (2), and on the economic activity (3) of NPOs.
 
-**Tools used**: PowerBI (DAX, R)
+**Tools used**: Power BI (DAX, R)
 
 
 ---
@@ -176,9 +175,8 @@ Position: Second-line tech support specialist for all issues related to domain n
 - **2015** Master degree in Business Administration (MBA);
 - **2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
 
----
 
-## A few more words About Me
+## A few more words about me
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
