@@ -7,32 +7,36 @@
 </h2>
 
 ### My details are:
-- Tel: +357.97747408
-- E-mail: anastasia.proff@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anastasia-tsygankova-337382251/
 - Cyprus (EU)
 
 ## :woman_technologist: About Me
-I am a Certified Data Analyst with a University degree in Business Administration. 
+I am a Certified Data Analyst with a University degree in Business Administration.
 
-For the last 8 years, I've been working in IT industry in a well-established international company, so I perfectly understand what it means to work under pressure and meet demanding deadlines in a fast-paced environment.
+I’ve been working in well-established international companies in IT and recently in Forex industry, so I perfectly understand what it means to meet demanding deadlines in a fast-paced environment, be a part of a team and to work under pressure.
 
-I believe that a combination of my analytical and problem-solving skills, attention to detail and ability to work independently and as part of a team together with my hard skills in **SQL, Google Sheets, Python and PowerBI** will help me to achieve the desired position at **Junior/Middle level** in Data Analytics.
+As years passed, I realised that I wish to continue with Data analytics. It is so fascinating to discover uncovered trends, patterns, and correlations in large amounts of raw data and see how it makes decision-making easier!
 
-As well I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and currently I am learning Greek (Fair).
+So, I've started my studies 🤓 I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data.
+
+I’ve become a Data Analyst ⭐
+
+I believe that a combination of my analytical and problem-solving skills, attention to detail together with my acquired technical skills helped me to achieve the desired position in Analytics.
+
+I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and τώρα μαθαίνω Ελληνικά.
 
 ---
 
 ## :fire: Technoligy stack
-- Google Sheets (pivot tables, vlookup, text functions, graphics);
+- Writing SQL queries in MySQL (MySQL Workbench), PostgreSQL (pgAdmin 4), SQL Server (Microsoft SQL Server Management Studio);
+- Creating dashboards in Tableau and Power BI Data visualization tools;
+- Role of Tableau Cloud Site Administrator;
+- Participation in ETL process (Microsoft SQL Server Integration Services);
+- Coding using Programming language Python (Pandas, NumPy, Matplotlib, Math, scipy.stats, VSCode, Google Colab);
+- Excel (pivot tables, vlookup, text functions, graphics);
 - Knowledge of KPIs (ARPU, CR, Retention, LTV, etc);
-- Understanding of unit economics;
-- Knowledge in Relational Databases (SQL, PostgreSQL, pgAdmin4).
-- Data visualization instruments PowerBI (DAX, R (Power Query));
-- Programming language Python (Pandas, NumPy, Matplotlib, Math, scipy.stats, VSCode, Google Colab);
-- SQL Database connection using Python;
-- Knowledge of basic statistics and math;
-- Familiarity with A/B tests.
+- Familiarity with A/B tests and statistics;
+- Microsoft Products: Microsoft Office, Teams, Outlook, SSMS, SSIS.
 
 ---
 
