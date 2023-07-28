@@ -76,12 +76,12 @@ https://xbtholding.com/*
 My responsibilities mainly include handling payments and refunds, as well as communicating with suppliers and key customers on financial matters.
 
 In addition, my responsibilities are:
-- to liaise with Accounting, Technical Support and Development departments as required to resolve any financial issues;
-- to analyze incoming payments to minimize the risk of receiving fraudulent transactions and chargebacks with future improvement suggestions;
-- to analyze customer accounts for duplicate and abuse purposes;
-- to produce customised invoices and other matters (certificate, statements) on the customers’ request;
-- to review suppliers’ invoices, to ensure that invoiced services are provided and correctly recorded in the system; to fix any unresolved matters;
-- to report findings and feedback to management and other internal stakeholders.
+- To liaise with Accounting, Technical Support and Development departments as required to resolve any financial issues;
+- To analyze incoming payments to minimize the risk of receiving fraudulent transactions and chargebacks with future improvement suggestions;
+- To analyze customer accounts for duplicate and abuse purposes;
+- To produce customised invoices and other matters (certificate, statements) on the customers’ request;
+- To review suppliers’ invoices, to ensure that invoiced services are provided and correctly recorded in the system; to fix any unresolved matters;
+- To report findings and feedback to management and other internal stakeholders.
 
 **2014 - 2017**<br>
 **Position:** Second-line tech support specialist for all issues related to domain names.<br>
@@ -106,7 +106,6 @@ In addition, my responsibilities are:
 - **2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
 
 ---
-
 
 ## :star: Portfolio
 Below are my projects:
@@ -174,7 +173,7 @@ Below are my projects:
 
 ---
 
-## A few more words about me
+## A few more words about me..
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LT1Q7rCD5WmqJre7Wq/giphy.gif" width="300"/>
 </div>
