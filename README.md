@@ -84,7 +84,7 @@ In addition, my responsibilities are:
 - to report findings and feedback to management and other internal stakeholders.
 
 **2014 - 2017**<br>
-Position: Second-line tech support specialist for all issues related to domain names.<br>
+**Position:** Second-line tech support specialist for all issues related to domain names.<br>
 
 ---
 
