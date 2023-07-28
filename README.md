@@ -1,13 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
 </div>
-<h1>
+<h2>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
-
-## :woman_technologist: About Me
 I am a Certified Data Analyst with a University degree in Business Administration.
 
 I’ve been working in well-established international companies in IT and recently in Forex industry, so I perfectly understand what it means to meet demanding deadlines in a fast-paced environment, be a part of a team and to work under pressure.
