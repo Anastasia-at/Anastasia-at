@@ -35,73 +35,6 @@ I have excellent verbal and written communication skills in the English language
 
 ---
 
-## :star: Portfolio
-Below are my projects:
-
-### :arrow_right: E-commerce project
-- https://clck.ru/33Nsec ENG :uk:
-
-**Objective**: 
-- To determine the current marketing and product metrics of the business in order to understand how the business is functioning;
-- To determine whether it is cost-effective to expand this business and open a new store in a new region.<br>
-
-**Tools used**: 
-- Excel (pivot tables, vlookup, text functions)
-- KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
-
-### :arrow_right: E-commerce project
-- https://clck.ru/33W7p4 ENG :uk:
-
-**Objective**: To analyze the work of the company in terms of its effectiveness and give recommendations for scaling the business in other regions <br>
-
-**Tools used**: SQL
-
-### :arrow_right: E-commerce project
-- https://clck.ru/33NyTo ENG :uk:
-
-**Objective**: 
-- To analyze the sales dynamics in different regions;
-- To calculate the retention rate in cohorts;
-- To draw up a portrait of the core-players
-
-**Tools used**: 
-- Excel (pivot tables, vlookup, text functions, cohorts) 
-- SQL
-- PowerBI (DAX, R)
-
-### :arrow_right: GameDev project 
-- https://clck.ru/33Qnxu ENG :uk:
-
-**Objective**: To investigate user behavior in the updated application of the mobile game
-
-**Tools used**: Python (pandas, matplotlib)
-
-### :arrow_right: E-commerce project
-- https://clck.ru/33P3zk ENG :uk:
-
-**Objective**: To build a recommendation system to increase the revenue volume
-
-**Tools used**: 
-- Python (psycopg2, collections, itertools, pandas, numpy, scipy.stats, math)
-- SQL Database connection using Python
-
-### :arrow_right: A/B testing 
-- https://clck.ru/33MQUR RU :ru:
-
-**Objective**: To analyze two versions of the landing page in terms of sales
-
-**Tools used**: Python (pandas, matplotlib, scipy.stats, random, numpy, math)
-
-### :arrow_right: Hackathon (group project), customer "Teplisa" (https://te-st.ru/about/)
-- https://clck.ru/yTzhF RU :ru:
-
-**Objective**: To check if there is a dependence of the probability of receiving grants/contracts from the government based on the region of registration of the organization (1), on the age of the organization (2), and on the economic activity (3) of NPOs.
-
-**Tools used**: Power BI (DAX, R)
-
-
----
-
 ## :office: Work Experience
 
 ### CMTrading, Limassol
@@ -172,6 +105,74 @@ Position: Second-line tech support specialist for all issues related to domain n
 - **2015** Master degree in Business Administration (MBA);
 - **2012** Bachelor degree in Business Administration (BBA) with specialisation in Hospitality Industry
 
+---
+
+
+## :star: Portfolio
+Below are my projects:
+
+### :arrow_right: E-commerce project
+- https://clck.ru/33Nsec ENG :uk:
+
+**Objective**: 
+- To determine the current marketing and product metrics of the business in order to understand how the business is functioning;
+- To determine whether it is cost-effective to expand this business and open a new store in a new region.<br>
+
+**Tools used**: 
+- Excel (pivot tables, vlookup, text functions)
+- KPIs (CR, AOV, ARPPU, CPO, CPL, ROI/ROMI, LTV)
+
+### :arrow_right: E-commerce project
+- https://clck.ru/33W7p4 ENG :uk:
+
+**Objective**: To analyze the work of the company in terms of its effectiveness and give recommendations for scaling the business in other regions <br>
+
+**Tools used**: SQL
+
+### :arrow_right: E-commerce project
+- https://clck.ru/33NyTo ENG :uk:
+
+**Objective**: 
+- To analyze the sales dynamics in different regions;
+- To calculate the retention rate in cohorts;
+- To draw up a portrait of the core-players
+
+**Tools used**: 
+- Excel (pivot tables, vlookup, text functions, cohorts) 
+- SQL
+- PowerBI (DAX, R)
+
+### :arrow_right: GameDev project 
+- https://clck.ru/33Qnxu ENG :uk:
+
+**Objective**: To investigate user behavior in the updated application of the mobile game
+
+**Tools used**: Python (pandas, matplotlib)
+
+### :arrow_right: E-commerce project
+- https://clck.ru/33P3zk ENG :uk:
+
+**Objective**: To build a recommendation system to increase the revenue volume
+
+**Tools used**: 
+- Python (psycopg2, collections, itertools, pandas, numpy, scipy.stats, math)
+- SQL Database connection using Python
+
+### :arrow_right: A/B testing 
+- https://clck.ru/33MQUR RU :ru:
+
+**Objective**: To analyze two versions of the landing page in terms of sales
+
+**Tools used**: Python (pandas, matplotlib, scipy.stats, random, numpy, math)
+
+### :arrow_right: Hackathon (group project), customer "Teplisa" (https://te-st.ru/about/)
+- https://clck.ru/yTzhF RU :ru:
+
+**Objective**: To check if there is a dependence of the probability of receiving grants/contracts from the government based on the region of registration of the organization (1), on the age of the organization (2), and on the economic activity (3) of NPOs.
+
+**Tools used**: Power BI (DAX, R)
+
+---
 
 ## A few more words about me
 <div id="header" align="center">
