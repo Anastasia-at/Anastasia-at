@@ -115,7 +115,7 @@ https://www.cmtrading.com/*
 
 **Apr 2023 - Present**<br>
 **Position: Business Intelligence Analyst** <br>
-<font size="+1">My duties and responsibilities</font>
+***My duties and responsibilities*** <br>
 To perform Data Quality Control process by:
 - Importing data from various sources such as Database Management Systems, spreadsheets, or flat files;
 - Doing Data cleansing and validation processes where corrupt or inaccurate records are replaced, modified, or deleted to correct the data;
