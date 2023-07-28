@@ -111,21 +111,18 @@ Below are my projects:
 ## :office: Work Experience
 
 ### CMTrading, Limassol
-*CMTrading is a reputable brokerage company that provides a wide range of financial instruments for trading, including stocks, options, futures, currencies (forex), and commodities
+*CMTrading is a reputable brokerage company that provides a wide range of financial instruments for trading, including stocks, options, futures, currencies (forex), and commodities <br>
 https://www.cmtrading.com/*
 
-Business Intelligence AnalystBusiness Intelligence Analyst
-CMTrading · Full-timeCMTrading · Full-time
-Apr 2023 - Present · 4 mosApr 2023 - Present · 4 mos
-Limassol, Cyprus · On-siteLimassol, Cyprus · On-site
+**Apr 2023 - Present**<br>
+**Position: Business Intelligence Analyst** <br>
 My responsibilities are to understand business requirements in the BI context and to design data models to convert raw data into meaningful insights by creating dashboards and interactive visual reports using BI tool, as well as to perform maintenance and improvements of databases, and the last but not the least to ensure the accuracy and completeness of imported data by conducting tests and troubleshooting. To report directly to the company BI manager.
-
 
 ### XBT Holding, Limassol
 *IT Infrastructure for all needs: Hosting • Networking • Managed Services <br>
 https://xbtholding.com/*
 
-**2019 - Present**<br>
+**2019 - Apr 2023**<br>
 **Position: Account/Financial Manager** <br>
 My responsibilities mainly include handling payments and refunds, as well as communicating with suppliers and key customers on financial matters.
 
