@@ -72,7 +72,7 @@ To perform Tableau Cloud Site Administrator duties by:
 https://xbtholding.com/*
 
 **2019 - Apr 2023**<br>
-**Position: Account/Financial Manager** <br>
+**Position: Financial Manager / Payment Specialist** <br>
 My responsibilities mainly include handling payments and refunds, as well as communicating with suppliers and key customers on financial matters.
 
 In addition, my responsibilities are:
