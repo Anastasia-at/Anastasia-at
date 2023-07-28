@@ -12,7 +12,7 @@ I’ve been working in well-established international companies in IT and recent
 
 As years passed, I realised that I wish to continue with Data analytics. It is so fascinating to discover uncovered trends, patterns, and correlations in large amounts of raw data and see how it makes decision-making easier!
 
-So, I've started my studies 🤓 I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data.
+So, I've started my studies. I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data.
 
 I’ve become a Data Analyst ⭐
 
