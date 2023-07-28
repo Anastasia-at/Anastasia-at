@@ -6,9 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-### My details are:
-- LinkedIn: https://www.linkedin.com/in/anastasia-tsygankova-337382251/
-- Cyprus (EU)
 
 ## :woman_technologist: About Me
 I am a Certified Data Analyst with a University degree in Business Administration.
