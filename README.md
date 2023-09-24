@@ -96,7 +96,7 @@ In addition, my responsibilities are:
 - Excel and Google instruments (Google Sheets, Google Analytics, Google Tag Manager), 
 - Key product and marketing metrics (KPIs), unit economics, purchase funnel;
 - SQL (PostgreSQL), 
-- Visualization reports in PowerBI,
+- Visualization reports in Power BI,
 - Knowledge of data-related programming languages (Python, R),
 - Math and statistical analysis.
 
