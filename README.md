@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
 </div>
 <h2>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there :wave:
 </h2>
 
 I am a Certified Data Analyst with an University degree in Business Administration.
@@ -13,7 +12,7 @@ I’ve been working in well-established international companies in IT and recent
 **Why Data Analysis** ⭐ <br>
 As years passed, I realised that I wish to continue with Data Analytics. It is so fascinating to discover uncovered trends, patterns, and correlations in large amounts of raw data and see how it makes decision-making smoother!
 
-So, I started my studies. I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data. And as a result, I became a Data Analyst ⭐
+So, I started my studies. I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data. And as a result, I became a Data Analyst! :metal:
 
 I believe that a combination of my analytical and problem-solving skills, attention to detail together with my acquired technical skills also helped me to achieve the desired position in Analytics.
 
