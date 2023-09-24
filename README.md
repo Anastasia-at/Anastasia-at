@@ -10,14 +10,14 @@ I am a Certified Data Analyst with an University degree in Business Administrati
 
 I’ve been working in well-established international companies in IT and recently in Forex industry, so I perfectly understand what it means to meet demanding deadlines in a fast-paced environment, be a part of a team and to work under pressure.
 
-Why I've choosen Data Analysis ⭐
-As years passed, I realised that I wish to continue with Data analytics. It is so fascinating to discover uncovered trends, patterns, and correlations in large amounts of raw data and see how it makes decision-making smoother!
+**Why Data Analysis** ⭐ <br>
+As years passed, I realised that I wish to continue with Data Analytics. It is so fascinating to discover uncovered trends, patterns, and correlations in large amounts of raw data and see how it makes decision-making smoother!
 
 So, I started my studies. I learned how to analyse data with various technical and visualisation instruments and also with the most popular language in the world of data. And as a result, I became a Data Analyst ⭐
 
 I believe that a combination of my analytical and problem-solving skills, attention to detail together with my acquired technical skills also helped me to achieve the desired position in Analytics.
 
-In additiona, I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and τώρα μαθαίνω Ελληνικά.
+In addition, I have excellent verbal and written communication skills in the English language (Advanced), my native language is Russian, and τώρα μαθαίνω Ελληνικά.
 
 ---
 
